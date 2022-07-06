@@ -1,4 +1,4 @@
-# HDP_sigExtration
+# HDP_sigExtraction
 Pipeline to extract de novo mutational signatures using HDP.
 
 
