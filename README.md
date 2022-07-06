@@ -4,7 +4,7 @@ Pipeline to extract de novo mutational signatures using HDP.
 
 This pipeline is based on the R-package hdp developed by Nicola Roberts (https://github.com/nicolaroberts/hdp). Documentation about how to apply hdp for signature extraction is provided by  the correpsonding vingette (https://github.com/nicolaroberts/hdp/blob/master/vignettes/mutation_signatures.Rmd).
 
-# Getting started & Documentation
+## Getting started & Documentation
 1) Install the R-packge hdp from github like described on the website https://github.com/nicolaroberts/hdp
 
 2) The following three input files are required to run the pipeline:
