@@ -38,4 +38,6 @@ All input files need to be saved in a folder called input_files in your output d
         cosineSimThreshold=0.9
         maxiterEM=1000
         EMfracThreshold=0.1
+        
+5) Run the HDP_wrapper.sh script to run the pipeline.
 
